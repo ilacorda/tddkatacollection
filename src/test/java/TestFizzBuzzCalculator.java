@@ -1,6 +1,5 @@
 import org.junit.Before;
 import org.junit.Test;
-import tdd.programs.FizzBuzzCalculator;
 
 import static org.junit.Assert.assertEquals;
 

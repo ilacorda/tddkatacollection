@@ -12,9 +12,9 @@
 
 import org.junit.Before;
 import org.junit.Test;
-import tdd.programs.StringCalculator;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
+
 
 public class TestStringCalculator {
 
