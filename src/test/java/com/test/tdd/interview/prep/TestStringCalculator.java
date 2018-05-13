@@ -1,4 +1,4 @@
-
+package com.test.tdd.interview.prep;
 
 /*
  * Kata steps:
@@ -10,6 +10,7 @@
  * 6-Negative numbers throw an exception
  */
 
+import com.tdd.interview.prep.StringCalculator;
 import org.junit.Before;
 import org.junit.Test;
 

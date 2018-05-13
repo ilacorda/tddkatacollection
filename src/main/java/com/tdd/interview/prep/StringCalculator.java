@@ -1,3 +1,5 @@
+package com.tdd.interview.prep;
+
 public class StringCalculator {
     public int add(String input) throws Exception {
 

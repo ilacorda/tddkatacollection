@@ -1,3 +1,6 @@
+package com.test.tdd.interview.prep;
+
+import com.tdd.interview.prep.FindOddIntegerInArray;
 import org.junit.Before;
 import org.junit.Test;
 

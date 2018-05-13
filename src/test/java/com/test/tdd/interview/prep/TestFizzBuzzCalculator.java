@@ -1,3 +1,6 @@
+package com.test.tdd.interview.prep;
+
+import com.tdd.interview.prep.FizzBuzzCalculator;
 import org.junit.Before;
 import org.junit.Test;
 

@@ -1,6 +1,7 @@
+package com.tdd.interview.prep;
+
 import java.io.*;
 import java.util.*;
-import java.util.logging.Logger;
 
 public class FizzBuzzCalculator {
 
